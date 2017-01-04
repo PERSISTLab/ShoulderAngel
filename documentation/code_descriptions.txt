@@ -1,0 +1,7 @@
+This is outdated and will be updaed soon.
+
+
+
+1) Shoulder Angel code - embedded C code that will actually run on the shoulder angel device
+2) Set golden image code - regular C code that runs on a laptop/computer. This is used to take an embedded C file intended to be run on an msp430 and puts it in a format so that it cna be reprogrammed onto an msp430 from another msp430.
+3) Evaluation code - various code that will run on various devices for the evaluation setup. 

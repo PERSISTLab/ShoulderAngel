@@ -1,0 +1,17 @@
+Outdated. Will fix that soon
+
+Last updated: Aug 7, 2015
+This document is a work in progress
+
+
+This document describes the way that devices are physically connected and otherwise setup for shoulder angel.
+
+Current List of devices
+1. 2 msp430fr5969s
+2. 2 msp430fr5739s (this will change)
+3. 1 teensy 3.1
+4. 2 CC1101 radios
+5. 2 INA169 current sensors
+
+
+TODO: descriptions of connections between devices
